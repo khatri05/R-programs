@@ -1,0 +1,6 @@
+"std_id"	"std_name"	"course_name"	"marks"
+101	"Rahul"	"iMCA"	90
+102	"Shahid"	"iMCA"	92
+103	"Prince"	"iMSC(IT)"	93
+104	"Yash"	"iMCA(IT)"	94
+105	"Shivam"	"iMCA"	95
